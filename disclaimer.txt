@@ -1,0 +1,51 @@
+Ethical Hacking Educational Code of Conduct
+
+1. Purpose:
+   This code of conduct aims to establish guidelines for ethical behavior while engaging in hacking activities for educational purposes.
+
+2. Legal Compliance:
+   a. Adhere to all local, national, and international laws and regulations.
+   b. Obtain proper authorization before conducting any penetration testing or vulnerability assessment.
+
+3. Respect for Privacy:
+   a. Respect the privacy of individuals and organizations.
+   b. Avoid unauthorized access to sensitive information.
+   c. Never disclose or use personal information obtained during hacking activities.
+
+4. Responsible Disclosure:
+   a. Report identified vulnerabilities to the appropriate authorities or vendors promptly.
+   b. Follow responsible disclosure policies to ensure vulnerabilities are patched without causing harm.
+
+5. Non-Destructive Behavior:
+   a. Do not engage in any activity that may cause damage or disruption to systems or networks.
+   b. Use testing environments and avoid targeting live systems without explicit permission.
+
+6. Consent:
+   a. Obtain explicit consent from system owners before conducting any testing or assessment.
+   b. Ensure all stakeholders are aware of the scope and nature of hacking activities.
+
+7. Continuous Learning:
+   a. Stay updated with the latest ethical hacking techniques, tools, and best practices.
+   b. Engage in continuous learning to improve skills and knowledge in cybersecurity.
+
+8. Integrity:
+   a. Be honest and transparent in all hacking activities.
+   b. Do not misrepresent oneself or the purpose of hacking activities.
+
+9. Collaboration:
+   a. Foster a collaborative environment by sharing knowledge and expertise with peers.
+   b. Respect the work and contributions of others in the cybersecurity community.
+
+10. Professionalism:
+    a. Maintain professionalism in all interactions related to ethical hacking.
+    b. Uphold the highest standards of conduct and ethics at all times.
+
+11. Reporting:
+    a. Report any unethical behavior or violations of this code of conduct to the appropriate authorities.
+    b. Support the enforcement of consequences for breaches of conduct.
+
+12. Education:
+    a. Use hacking skills and knowledge for educational purposes only.
+    b. Promote ethical hacking as a means to improve cybersecurity and protect digital assets.
+
+By adhering to this code of conduct, I acknowledge my responsibility to uphold ethical standards in all hacking activities for educational purposes.
